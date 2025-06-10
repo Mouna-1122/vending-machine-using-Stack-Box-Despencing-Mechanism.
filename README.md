@@ -1,0 +1,2 @@
+# vending-machine-using-Stack-Box-Despencing-Mechanism.
+This project is about building a vending machine that uses a unique stack-box system to dispense products. Imagine products neatly stacked in columns; when you make a selection, the machine simply releases the bottom box from that stack. We're focusing on making this system reliable and efficient, ensuring the right product is dispensed every time.
